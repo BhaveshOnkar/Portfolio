@@ -61,6 +61,10 @@ section.title .title-des span h1  {
     display: inline-block;
     font-weight: bolder;
     font-family: 'Avenir';
+    
+}
+.title-des{
+    margin-left: 20px;
 }
 
 section.title .title-des p {
@@ -68,6 +72,7 @@ section.title .title-des p {
     font-family: 'Avenir';
     font-weight: 500;
     padding: 2rem 3rem;
+    
 }
 
 button {
